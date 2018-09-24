@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <addons>
 <!--suppress ALL -->
 <addon id="context.ds.tools" version="1.1.0" name="DS Context Tools" provider-name="Mr.Blamo">
@@ -776,9 +777,9 @@ This is a Non-profit resource, organized solely for educational purposes which i
         </requires>
         <extension point="xbmc.addon.repository" name="[COLOR red]Blamo Repo[/COLOR]">
             <dir>
-			<info compressed="false">https://raw.githubusercontent.com/MrBlamo420/Project/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/MrBlamo420/Project/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/MrBlamo420/Project/master/zips/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/birdy-luis/Project/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/birdy-luis/Project/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/birdy-luis/Project/master/zips/</datadir>
             <hashes>false</hashes>
 			</dir>
             <dir>
@@ -900,7 +901,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
     <license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
     <forum>http://mrblamo.xyz</forum>
     <source></source>
-    <email>Mrblamo420@gmail.com</email>
+    <email>mrblamo@gmail.com</email>
   </extension>
 </addon>
 
